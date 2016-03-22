@@ -1,0 +1,7 @@
+http://coding-geek.com/how-does-a-hashmap-work-in-java/
+https://dzone.com/articles/hashmap-internal
+http://tekmarathon.com/2012/12/04/hashmap-internal-implementation-analysis-in-java/
+http://javahungry.blogspot.com/2013/08/hashing-how-hash-map-works-in-java-or.html
+http://netjs.blogspot.com/2015/05/how-hashmap-internally-works-in-java.html
+
+http://stackoverflow.com/questions/24673567/change-to-hashmap-hash-function-in-java-8

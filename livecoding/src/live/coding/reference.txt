@@ -1,0 +1,10 @@
+http://www.programmerinterview.com/index.php/database-sql/what-is-an-index/
+http://www.verynoisy.com/sql-indexing-dummies/
+
+http://netjs.blogspot.com/2015/08/how-arraylist-works-internally-in-java.html
+http://netjs.blogspot.com/2015/08/how-linked-list-class-works-internally-java.html
+http://netjs.blogspot.com/2015/09/how-hashset-works-internally-in-java.html
+
+http://netjs.blogspot.com/2015/05/fail-fast-vs-fail-safe-iterator-in-java.html
+
+http://javapapers.com/core-java/java-iterator/

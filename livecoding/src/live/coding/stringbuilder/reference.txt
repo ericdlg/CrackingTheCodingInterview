@@ -1,0 +1,2 @@
+http://vixmemon.blogspot.com/2010/04/how-stringbuilder-works-internally.html
+http://stackoverflow.com/questions/8011338/how-is-stringbuffer-implementing-append-function-without-creating-two-objects
