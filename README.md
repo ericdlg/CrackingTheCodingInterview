@@ -35,3 +35,8 @@ LinkedHashMap will iterate in the order in which the entries were put into the m
 - http://www.javamadesoeasy.com/2015/02/set-custom-implementation.html
 - http://www.javamadesoeasy.com/2015/02/linkedhashset-custom-implementation.html
 
+http://www.javamadesoeasy.com/2015/05/collection-top-50-interview-questions.html#at_pco=smlwn-1.0&at_si=56f2146ad71816f3&at_ab=per-2&at_pos=0&at_tot=1
+http://www.javamadesoeasy.com/2015/07/core-java-top-120-most-interesting-and_21.html#at_pco=smlwn-1.0&at_si=56f21548e96307f5&at_ab=per-2&at_pos=0&at_tot=1
+http://www.javamadesoeasy.com/2015/03/thread-states-thread-life-cycle-in-java.html#at_pco=smlwn-1.0&at_si=56f21678174f315c&at_ab=per-2&at_pos=0&at_tot=1
+http://www.javamadesoeasy.com/2015/03/what-is-thread-in-java.html
+http://www.javamadesoeasy.com/2015/03/difference-between-process-and-thread.html
